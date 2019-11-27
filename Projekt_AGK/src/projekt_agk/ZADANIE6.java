@@ -11,6 +11,6 @@ package projekt_agk;
  */
 public class ZADANIE6 {
     int b;
-    system.out.println("gabi");
+    system.out.println("gabi 6");
     
 }
